@@ -10,13 +10,13 @@
 git clone https://github.com/MOKAIRY/Learn-Docker
 ```
 
-## 3- Enter the the directory:
+## 3- Enter the directory:
 
 ```bash
 cd Learn-Docker
 ```
 
-## 3- Type in the Terminal:
+## 4- Lastly, type:
 
 ```bash
 docker run hello-docker
