@@ -1,0 +1,23 @@
+# How to use it?
+
+## 1- Download [Docker](https://www.docker.com/products/docker-desktop/).
+
+### 1.1- Then follow these steps in the Terminal ⬇️
+
+## 2- Clone this Project:
+
+```bash
+git clone https://github.com/MOKAIRY/Learn-Docker
+```
+
+## 3- Enter the the directory:
+
+```bash
+cd Learn-Docker
+```
+
+## 3- Type in the Terminal:
+
+```bash
+docker run hello-docker
+```
