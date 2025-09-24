@@ -13,11 +13,11 @@ git clone https://github.com/MOKAIRY/Learn-Docker
 ## 3- Enter the directory:
 
 ```bash
-cd Learn-Docker
+cd Learn-Docker/react-facts
 ```
 
 ## 4- Lastly, type:
 
 ```bash
-docker run hello-docker
+docker-compose up --build
 ```
