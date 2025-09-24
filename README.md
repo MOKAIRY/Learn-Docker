@@ -21,3 +21,4 @@ cd Learn-Docker/react-facts
 ```bash
 docker-compose up --build
 ```
+## 5- Go to your browser: http://localhost:3000
