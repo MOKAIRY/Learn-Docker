@@ -13,7 +13,7 @@ git clone https://github.com/MOKAIRY/Learn-Docker
 ## 3- Enter the directory:
 
 ```bash
-cd Learn-Docker/react-facts
+cd Learn-Docker
 ```
 
 ## 4- Lastly, type:
