@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  react-facts:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PROJECT_NAME: react-facts
+    ports:
+      - "3001:5173"
+    volumes:
+      - ./react-facts:/app
+      - /app/node_modules
